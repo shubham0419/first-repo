@@ -1,3 +1,3 @@
 console.log("hello world");
 
-// console.log("this is first.js");
+console.log("this is first.js");
